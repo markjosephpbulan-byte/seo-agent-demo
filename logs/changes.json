@@ -1,0 +1,4 @@
+{"url": "https://example.com", "changes": ["Title would be updated to: 'New Title'", "Meta description would be updated to: 'This is an example meta description.'", "H1 would be added: 'Example Heading'"]}
+{"url": "https://example.com", "changes": ["Meta description would be updated to: 'This is an example meta description.'"]}
+{"url": "https://httpbin.org/html", "changes": ["Meta description would be updated to: 'This is an example meta description.'"]}
+{"url": "https://www.iana.org/help/example-domains", "changes": ["Meta description would be updated to: 'This is an example meta description.'"]}
